@@ -4,4 +4,4 @@ Tarkoituksenani on luoda joko jokin **peli-sovellus**, *mahdollisesti jokin sudo
 
 ## Laskarit
 
-Laskarit löytyvät kansiosta [laskarit](https://github.com/porkkasanna/ot-harjoitustyo/tree/main/laskarit)
+Laskarit löytyvät kansiosta [laskarit](https://github.com/porkkasanna/ot-harjoitustyo/laskarit)
