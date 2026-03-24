@@ -1,7 +1,13 @@
-# Ohjelmistotekniikka - harjoitustyö
+## Ohjelmistotekniikka - harjoitustyö
 
-Tarkoituksenani on luoda joko jokin **peli-sovellus**, *mahdollisesti jokin sudokun tyyppinen*, tai **budjetointiin** liittyvä sovellus.
+Tämä sovellus on Helsingin yliopston Ohjelmistotekniikka-kurssille luotu harjoitustyö. Sovellus on peli, jossa pelaajalla on lemmikkihirviö, jota hoidetaan.
 
-## Laskarit
+### Laskarit
 
-Laskarit löytyvät kansiosta [laskarit](https://github.com/porkkasanna/ot-harjoitustyo/laskarit)
+Kurssin viikkotehtävät löytyvät löytyvät kansiosta [laskarit](https://github.com/porkkasanna/ot-harjoitustyo/laskarit).
+
+### Dokumentaatio
+
+* [Vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
+* [Tuntikirjanpito](/dokumentaatio/tuntikirjanpito.md)
+* [Changelog](/dokumentaatio/changelog.md)
