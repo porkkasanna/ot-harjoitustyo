@@ -28,7 +28,7 @@ Sovellukseen on tulossa vain tavallinen käyttäjärooli.
 
 Sovelluksessa on kolme näkymää: kirjautuminen, tunnuksen luonti (ei kuvattuna) ja hirviön näkymä. Laajennuksien myötä näkymiä saattaa tulla lisää, esim. kauppanäkymä.
 
-![Luonnos käyttöliittymästä](/kuvat/kayttoliittymaluonnos1.jpeg)
+![Luonnos käyttöliittymästä](/dokumentaatio/kuvat/kayttoliittymaluonnos1.jpeg)
 
 ### Laajennukset
 
